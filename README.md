@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicodemusEnriquez
 - 👀 I’m interested in anything code related
-- 🌱 I’m currently learning to become a Full-Stack Engineer
+- 🌱 I’m currently amining to become a Full-Stack Engineer
 
 <!---
 - 💞️ I’m looking to collaborate on ...
